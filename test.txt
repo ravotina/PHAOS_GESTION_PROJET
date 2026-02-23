@@ -1,0 +1,21 @@
+
+    <div class="mb-3">
+        <label for="notificationMessage" class="form-label">
+            <i class="fas fa-edit me-2"></i>Message personnalisé :
+        </label>
+        <textarea 
+            id="notificationMessage" 
+            class="form-control" 
+            rows="8" 
+            style="font-family: monospace;"
+            placeholder="Personnalisez le message de notification...">${messageDefault}</textarea>
+        <small class="text-muted">Vous pouvez modifier ce message selon vos besoins.</small>
+    </div>
+
+
+
+
+    • Erreur de connexion au serveur: Method AppHttpControllersAuthController::insertUserToken does not exist.
+
+
+    insertUserToken
